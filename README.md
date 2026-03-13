@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # 🍬 Candy Crush TS 🍬
 
 Klon popularnej gry logicznej typu "Match-3", zbudowany całkowicie od zera przy użyciu Reacta i TypeScriptu. Projekt skupia się na zarządzaniu złożonym stanem aplikacji, obsłudze zdarzeń Drag & Drop oraz implementacji własnych algorytmów skanujących siatkę.
@@ -27,3 +28,24 @@ Zaimplementowałam w pełni działający "silnik" gry, który obsługuje:
 3. Zainstaluj zależności:
    ```bash
    npm install
+||||||| a687a3e
+# react-candy-crush
+Having the similar project in JS, now I want to try code it in React and feel the diffrence :) Never enough of logic, of course.
+=======
+# 🍊 Candy Crush in React  🍊
+Having the similar project in JS, now I want to try code it in React and feel the diffrence :) Never enough of logic, of course.
+
+## 🍋 First look 
+
+![first page](./src/images/screen_1.png)
+
+## 🍋 Technologies
+
++ finally React !
+
+## 🍋 Inspiration
+My youtube angel  ♥ Ania Kubow ♥. Love this women, her sense of humor and ability to explain hard code-things in a way that I finally understand. 🏆
+
+
+***
+>>>>>>> 7d8b4456856b2593ac4160f89eb1623ef5c6e655
