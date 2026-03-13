@@ -1,0 +1,21 @@
+//Zwróć uwagę na kluczowe linijki: "jsx": "react-jsx" pozwala czytać tagi HTML, a "esModuleInterop": true naprawia te błędy z importowaniem Reacta, które wyświetliły Ci się w konsoli.
+{
+  "compilerOptions": {
+    "target": "es5",
+    "lib": ["dom", "dom.iterable", "esnext"],
+    "allowJs": true,
+    "skipLibCheck": true,
+    "esModuleInterop": true,
+    "allowSyntheticDefaultImports": true,
+    "strict": true,
+    "forceConsistentCasingInFileNames": true,
+    "noFallthroughCasesInSwitch": true,
+    "module": "esnext",
+    "moduleResolution": "node",
+    "resolveJsonModule": true,
+    "isolatedModules": true,
+    "noEmit": true,
+    "jsx": "react-jsx"
+  },
+  "include": ["src"]
+}
